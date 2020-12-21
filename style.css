@@ -1,0 +1,24 @@
+.img-responsive{
+    height: 150;
+    width: 150;
+}
+
+.gify{
+    height: 100;
+    width: 150;
+}
+
+.heading{
+    font-size: x-large;
+    background-color: whitesmoke; 
+
+}
+
+#ji{
+    font-size: large;
+}
+
+.div_img_con{
+    width: 400;
+    background-color: gray;
+}
